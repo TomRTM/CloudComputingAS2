@@ -1,6 +1,6 @@
 from multiprocessing import Pool, TimeoutError
 import time
-import boto.sqs
+import boto.sns
 import ast
 import multiprocessing
 from alchemyapi_python.alchemyapi import AlchemyAPI
