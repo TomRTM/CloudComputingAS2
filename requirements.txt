@@ -17,7 +17,7 @@ Flask-GoogleMaps==0.2.4
 flask-io==1.12.0
 Flask-SocketIO==2.7.2
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 jmespath==0.9.0
 MarkupSafe==0.23
 marshmallow==2.9.1
